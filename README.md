@@ -13,7 +13,7 @@ The ultimate objective is to provide actionable, data-driven insights that empow
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 * **Predictive Classification:** Construct robust classification models to predict employee treatment-seeking behavior (`treatment_sought`).
 * **Architecture Evaluation:** Compare the performance, data efficiency, and generalization caps of classical machine learning algorithms against multi-layer deep learning architectures.
 * **Feature Explainability:** Uncover structural corporate determinants (e.g., policy communication, anonymity protections) that act as catalysts or barriers to mental health care access.
